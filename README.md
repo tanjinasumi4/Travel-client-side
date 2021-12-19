@@ -1,49 +1,39 @@
-# Getting Started with Create React App
+# Luxury Travel Domain
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To learn more visit our website [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About Luxury Travel Domain System
 
-In the project directory, you can run:
+Luxury Travel Domain System aims to increase the awarness of tourists attractions,to encourage and support travel to Luxury Travel Domain System.This system connects customers and agents directly, provides a feedback mechanism for tourists, maintains and controls the database of tourists' information, and gives a variety of travel services.
 
-### `npm start`
+### Our vision
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The user needs to visit the travel agency office to plan any tour. It involves a lot of manual paperwork, and customers need to stay in the queue for a long time. The present systems are inadequate in providing information and advice to the agencies and customers about tour plans. Most of the time agencies have to rely on local information sources and their own experience regarding time and cost. Through a phone call, they have to get information.
+### Our Mission
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Our Luxury Travel Domain System has the following advantages over the traditional system:
 
-### `npm test`
+1.Privacy and Confidentiality
+2.Effective during emergency conditions.
+3.It saves time and effort.
+4.Easy updation of records
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Safety Information
 
-### `npm run build`
+Vacation is a time to relax in safe surroundings.For Emergency aid of any kind,call 911 from any phone...in your hotel.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Transportation Safety Tips
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**This is some tips for your safety**
+Unwary tourists can make easy targets for thieves because they stand out in a crowd, are unused to their surroundings, and are generally carrying money, credit cards and valuables like cameras. You can reduce your risk of being mugged or robbed by taking a few simple precautions. It is a good idea to research the safety of your intended destination with the Department of Foreign Affairs and Trade. This government department keeps an updated bulletin on travel destinations, covering factors such as political unrest or criminal activities that target tourists. You could also consult with your travel agent, or talk to friends who have already visited your intended destination.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Hotel Safety Tips
 
-### `npm run eject`
+For some travelers, a hotel’s a place to rest their head after a day of exploring. For others, it’s where they decompress after a long day of meetings. However a guest might see their accommodations, a hotel serves as a home away from home — and it should feel like that in more ways than one.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Namely, guests look for comfort — especially from the cozy rooms and extra amenities you provide. They also want to feel just as secure with you as they do in their own homes. Indeed, that’s why safety is one of the fundamental basics that every hotel should provide.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+It’s up to you to make sure your hotel has safety measures in place that make guests feel protected while they stay with you.
 
 ### Code Splitting
 
