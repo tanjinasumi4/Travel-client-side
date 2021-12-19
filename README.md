@@ -1,17 +1,17 @@
-# Luxury Travel Domain
+# Tourism Management System
 
 To learn more visit our website [Create React App](https://github.com/facebook/create-react-app).
 
-## About Luxury Travel Domain System
+## About Tourism Management System
 
-Luxury Travel Domain System aims to increase the awarness of tourists attractions,to encourage and support travel to Luxury Travel Domain System.This system connects customers and agents directly, provides a feedback mechanism for tourists, maintains and controls the database of tourists' information, and gives a variety of travel services.
+Tourism Management System aims to increase the awarness of tourists attractions,to encourage and support travel to Tourism Management System.This system connects customers and agents directly, provides a feedback mechanism for tourists, maintains and controls the database of tourists' information, and gives a variety of travel services.
 
 ### Our vision
 
 The user needs to visit the travel agency office to plan any tour. It involves a lot of manual paperwork, and customers need to stay in the queue for a long time. The present systems are inadequate in providing information and advice to the agencies and customers about tour plans. Most of the time agencies have to rely on local information sources and their own experience regarding time and cost. Through a phone call, they have to get information.
 ### Our Mission
 
-Our Luxury Travel Domain System has the following advantages over the traditional system:
+Our Tourism Management System has the following advantages over the traditional system:
 
 1.Privacy and Confidentiality
 2.Effective during emergency conditions.
