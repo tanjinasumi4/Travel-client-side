@@ -1,0 +1,12 @@
+.service{
+    background-color: lightblue;
+    /* height: 700px; */
+    border-radius: 20px;
+    text-align: center;
+    
+}
+
+.service img{
+    width: 100%;
+}
+
